@@ -1427,7 +1427,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		width: 45em;
+		width: 50em;
 		max-width: 100%;
 		margin: 0 auto 2em auto;
 	}
@@ -1930,7 +1930,7 @@ input, select, textarea {
 	}
 
 		.main > .content {
-			width: 45em;
+			width: 50em;
 			max-width: calc(100% - 4em);
 			margin: 0 auto;
 		}
